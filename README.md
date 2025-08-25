@@ -5,7 +5,9 @@ It allows users to create, update, delete, and view notes with local storage sup
 Each note also shows the time since creation in a human-friendly format.
 
 
-<img width="1487" height="655" alt="image" src="https://github.com/user-attachments/assets/3c32c88d-266f-4645-92ad-23cad9ac3212" />
+<img width="1534" height="609" alt="image" src="https://github.com/user-attachments/assets/36a4ae88-ec43-46c1-acac-758d50f3742d" />
+
+
 
 
 ✨ Features
@@ -18,7 +20,15 @@ Each note also shows the time since creation in a human-friendly format.
 📱 Responsive UI styled with TailwindCSS
 🔽 Read More toggle for long notes
 🚀 Demo
-👉 Live Demo (GitHub Pages)
+👉 Live Demo 
+
+
+
+
+<img width="1487" height="655" alt="image" src="https://github.com/user-attachments/assets/3c32c88d-266f-4645-92ad-23cad9ac3212" />
+
+
+
 
 🛠️ Tech Stack
 JavaScript (Vanilla)
