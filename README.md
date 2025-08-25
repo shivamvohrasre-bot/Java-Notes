@@ -4,6 +4,10 @@ A lightweight and responsive Note Manager built using Vanilla JavaScript + Tailw
 It allows users to create, update, delete, and view notes with local storage support.
 Each note also shows the time since creation in a human-friendly format.
 
+
+<img width="1487" height="655" alt="image" src="https://github.com/user-attachments/assets/3c32c88d-266f-4645-92ad-23cad9ac3212" />
+
+
 ✨ Features
 ➕ Add Notes with title & description
 ✏️ Update Notes anytime
